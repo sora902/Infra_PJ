@@ -1,0 +1,6 @@
+com/cloudops/service/UserService.class
+com/cloudops/CloudOpsApplication.class
+com/cloudops/model/User.class
+com/cloudops/config/WebConfig.class
+com/cloudops/controller/AuthController.class
+com/cloudops/repository/UserRepository.class

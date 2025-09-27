@@ -1,0 +1,6 @@
+/home/ubuntu/Infra_PJ/backend/src/main/java/com/cloudops/UserRepository.java
+/home/ubuntu/Infra_PJ/backend/src/main/java/com/cloudops/service/UserService.java
+/home/ubuntu/Infra_PJ/backend/src/main/java/com/cloudops/config/WebConfig.java
+/home/ubuntu/Infra_PJ/backend/src/main/java/com/cloudops/model/User.java
+/home/ubuntu/Infra_PJ/backend/src/main/java/com/cloudops/controller/AuthController.java
+/home/ubuntu/Infra_PJ/backend/src/main/java/com/cloudops/CloudOpsApplication.java
